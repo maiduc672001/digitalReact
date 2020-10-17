@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/digitalReact/static/css/main.4ca22134.chunk.css",
-    "main.js": "/digitalReact/static/js/main.1a0e9ef5.chunk.js",
-    "main.js.map": "/digitalReact/static/js/main.1a0e9ef5.chunk.js.map",
+    "main.js": "/digitalReact/static/js/main.4f769f09.chunk.js",
+    "main.js.map": "/digitalReact/static/js/main.4f769f09.chunk.js.map",
     "runtime-main.js": "/digitalReact/static/js/runtime-main.49ae03ad.js",
     "runtime-main.js.map": "/digitalReact/static/js/runtime-main.49ae03ad.js.map",
     "static/css/2.9db35e51.chunk.css": "/digitalReact/static/css/2.9db35e51.chunk.css",
     "static/js/2.73587a2b.chunk.js": "/digitalReact/static/js/2.73587a2b.chunk.js",
     "static/js/2.73587a2b.chunk.js.map": "/digitalReact/static/js/2.73587a2b.chunk.js.map",
     "index.html": "/digitalReact/index.html",
-    "precache-manifest.e908dee3b903ea3fdce96a060b7e7870.js": "/digitalReact/precache-manifest.e908dee3b903ea3fdce96a060b7e7870.js",
+    "precache-manifest.7e5d217e712f5c7e2ef37e2bf63deb34.js": "/digitalReact/precache-manifest.7e5d217e712f5c7e2ef37e2bf63deb34.js",
     "service-worker.js": "/digitalReact/service-worker.js",
     "static/css/2.9db35e51.chunk.css.map": "/digitalReact/static/css/2.9db35e51.chunk.css.map",
     "static/css/main.4ca22134.chunk.css.map": "/digitalReact/static/css/main.4ca22134.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9db35e51.chunk.css",
     "static/js/2.73587a2b.chunk.js",
     "static/css/main.4ca22134.chunk.css",
-    "static/js/main.1a0e9ef5.chunk.js"
+    "static/js/main.4f769f09.chunk.js"
   ]
 }
